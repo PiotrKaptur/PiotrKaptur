@@ -24,8 +24,8 @@ Uwielbiam poznawać nowe technologie, eksperymentować z kodem i tworzyć projek
 
 ## 📫 Skontaktuj się ze mną:
 
-- ✉️ [Twój e-mail]
-- 💼 [LinkedIn lub inne social media – opcjonalnie]
+- ✉️ [piotr.kaptur.contact@gmail.com]
+- 💼 [[LinkedIn](https://www.linkedin.com/in/piotr-kaptur-025462349/)]
 
 ---
 
