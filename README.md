@@ -6,7 +6,6 @@ Uwielbiam poznawać nowe technologie, eksperymentować z kodem i tworzyć projek
 ## 💻 Technologie, które poznaję i z których korzystam:
 
 - 🖥️ **Języki programowania**: C++, C# 
-- 🌐 **Frontend**: HTML, CSS  
 - 🗄️ **Bazy danych**: SQLite, SQL
 
 ## 🚀 Co znajdziesz na moim GitHubie?
