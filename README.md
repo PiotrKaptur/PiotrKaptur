@@ -21,6 +21,7 @@ Uwielbiam poznawać nowe technologie, eksperymentować z kodem i tworzyć projek
 - Pogłębiać wiedzę w zakresie **fullstack developmentu**
 - Uczyć się **dobrych praktyk** i wzorców projektowych
 - Budować portfolio, które pokaże moją drogę jako programisty
+- Szkolić się pod okiem specjalistów.
 
 ## 📫 Skontaktuj się ze mną:
 
