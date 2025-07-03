@@ -3,6 +3,7 @@
 Jestem studentem **Politechniki Opolskiej**, który rozwija się w kierunku **Fullstack Developera**. 
 Od września bedę na 3 roku studiów.
 Uwielbiam poznawać nowe technologie, eksperymentować z kodem i tworzyć projekty, które uczą mnie czegoś nowego.
+Aktywnie szukam stażu lub pracy jako junior C# .NET Developer.
 
 ## 💻 Technologie, które poznaję i z których korzystam:
 
