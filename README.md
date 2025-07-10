@@ -7,7 +7,7 @@ Aktywnie szukam stażu lub pracy jako junior C# .NET Developer.
 
 ## 💻 Technologie, które poznaję i z których korzystam:
 
-- 🖥️ **Języki programowania**: C++, C# 
+- 🖥️ **Języki programowania**: C++, C# .NET
 - 🗄️ **Bazy danych**: SQLite, SQL
 
 ## 🚀 Co znajdziesz na moim GitHubie?
