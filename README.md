@@ -31,4 +31,6 @@ Aktywnie szukam stażu lub pracy jako junior C# .NET Developer.
 
 ---
 
+Zobacz dostepne repozytoria.
+
 > Dzięki za odwiedzenie mojego profilu!
